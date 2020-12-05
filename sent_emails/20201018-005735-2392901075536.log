@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password Reset Requested
+From: admin@example.com
+To: tanoparksonsilencer@gmail.com
+Date: Sat, 17 Oct 2020 23:57:35 -0000
+Message-ID: <160297905578.15512.11336548235942881041@DESKTOP-7C1N0HV>
+
+
+Hello, dany is welcoming
+
+We received a request to reset the password for your account for this email address. To initiate the password reset process for your account, click the link below.
+
+http://127.0.0.1:8000/reset/MQ/abwynz-146ca66d4d3de6a934b06e20b1ac09a2/
+
+This link can only be used once. If you need to reset your password again, please visit http://127.0.0.1:8000 and request another reset.
+
+If you did not make this request, you can simply ignore this email.
+
+Sincerely,
+The Website Team
+
+
+-------------------------------------------------------------------------------
