@@ -16,3 +16,12 @@ class Product_upload(models.Model):
 
     def __str__(self):
         return self.productname
+
+class ProductImage(models.Model):
+    product = models.ForeignKey(Product_upload, on_delete=models.CASCADE)
+    images = models.ImageField(upload_to='images/')
+    
+
+    def __str__(self):
+        return self.product.productname
+
