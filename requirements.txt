@@ -1,0 +1,13 @@
+Django==3.1.1
+django-autoslug==1.9.8
+django-crispy-forms==1.9.2
+django-debug-toolbar==1.11
+django-distill==1.6
+django-extensions==2.1.5
+django-filter==2.3.0
+django-registration==3.1
+django-taggit==0.23.0
+Django-Verify-Email==0.0.4
+verify-email==2.4.1
+virtualenv==20.0.31
+
